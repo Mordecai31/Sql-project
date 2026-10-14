@@ -1,0 +1,8 @@
+# Local dataset is intentionally not included in the GitHub repository.
+data/
+
+# Local editor and environment files.
+.vscode/
+.env
+.env.*
+!.env.example
